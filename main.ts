@@ -6,7 +6,7 @@ import { join } from "node:path";
 // agents. Written deterministically to $MAKEFUN_OUTPUT_DIR/entry.txt
 // (default /output/entry.txt) with no trailing newline.
 const LINE =
-  "Tip: the bug is never in the file you're staring at — it's in the last file you changed.";
+  "Tip: the bug is never in the file you're staring at — it's in the last file you, or your agent, changed.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

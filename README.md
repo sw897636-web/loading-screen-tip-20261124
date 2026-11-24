@@ -11,9 +11,9 @@ agents, sharp and funny enough to land mid-build.
 
 ## The entry
 
-> Tip: the bug is never in the file you're staring at — it's in the last file you changed.
+> Tip: the bug is never in the file you're staring at — it's in the last file you, or your agent, changed.
 
-88 characters, one line, no trailing newline.
+104 characters, one line, no trailing newline.
 
 ## How it works
 
